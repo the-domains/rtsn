@@ -2,12 +2,13 @@ name: Random Tangent Side Note
 favicon: null
 layout_spectrum: 0.23234571609646082
 typography_spectrum: 0.15938
+title: 'RTSN: Random Tangent Side Notes From My Life'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-20126712-3
   facebook: null
   twitter: null
 opengraph:
