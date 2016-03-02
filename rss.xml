@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Random Tangent Side Note]]></title>
-        <description><![CDATA[Random Tangent Side Note]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[RTSN: Random Tangent Side Notes From My Life]]></title>
+        <description><![CDATA[RTSN: Random Tangent Side Notes From My Life]]></description>
+        <link>https://thegrid.ai/rtsn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 18:17:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 20:33:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rtsn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e590715-4f7d-404b-8ec8-b3690a59018b.jpg">]]></description>
-            <link>undefineddcddf9c7-e516-41f4-8b7a-14c197901a71/index.html</link>
+            <link>https://thegrid.ai/rtsn/dcddf9c7-e516-41f4-8b7a-14c197901a71/index.html</link>
             <guid isPermaLink="false">dcddf9c7-e516-41f4-8b7a-14c197901a71</guid>
-            <pubDate>Wed, 02 Mar 2016 18:17:31 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 20:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
