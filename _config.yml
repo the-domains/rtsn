@@ -1,7 +1,7 @@
 name: Random Tangent Side Note
 favicon: null
 layout_spectrum: 0.23234571609646082
-typography_spectrum: 0.7228802351746708
+typography_spectrum: 0.15938
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.0659694243222475
-  lightness: 0.5570825694594532
-  saturation: 0.3196016848087311
-  rhythmicContrast: 0.12091407808475196
+  brandStrength: 0.3125
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
