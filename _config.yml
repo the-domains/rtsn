@@ -1,29 +1,41 @@
-name: Random Tangent Side Note
-favicon: null
-layout_spectrum: 0.23234571609646082
-typography_spectrum: 0.15938
 title: 'RTSN: Random Tangent Side Notes From My Life'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-20126712-3
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4849624
+  brandStrength: 0.3125
+  lightness: 0.08646613
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3125
-  lightness: 0.1875
-  saturation: 0.75
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.726638
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-20126712-3
+  facebook: null
+favicon: null
+name: Random Tangent Side Note
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2185821
+layout_spectrum: 0.8984962
